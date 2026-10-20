@@ -233,6 +233,17 @@ nav ul li a:hover::after {
 
   transform: translateY(-4px);
 }
+.resume-btn {
+  color: #f8fafc;
+  background: linear-gradient(135deg, #0ea5e9, #6366f1);
+  border: 1px solid rgba(56, 189, 248, 0.5);
+}
+
+.resume-btn:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 10px 30px rgba(56, 189, 248, 0.3);
+}
+
 
 /* Profile Image */
 
